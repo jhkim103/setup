@@ -1,0 +1,13 @@
+{
+  "name": "react-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:vt": "pnpm --filter vite-ts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
